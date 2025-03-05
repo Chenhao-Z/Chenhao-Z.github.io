@@ -13,7 +13,7 @@ title                    : "Chenhao Zhang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chenhao Zhang"
 description              : &description "a first year Ph.D. student at Purdue University"
-url                      : https://Chenhao_Z.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Chenhao-Z.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Chenhao-Z/Chenhao-Z.github.io"
 
