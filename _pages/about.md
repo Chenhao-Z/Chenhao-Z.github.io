@@ -17,7 +17,6 @@ Welcome to Chenhao's personal website! I am a first year Ph.D. student in Electr
 ## Education
 
 🎓 **Ph.D. in Electrical and Computer Engineering**, 2024 - present 
-
 *Purdue University*  
 
 🎓 **Msc in Electrical and Computer Engineering**, 2022 - 2024  
